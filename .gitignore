@@ -1,0 +1,11 @@
+README.md
+# Environments
+.env
+.venv
+env.bak/
+venv.bak/
+venv/
+env/
+ENV/
+.venv/
+.env/
