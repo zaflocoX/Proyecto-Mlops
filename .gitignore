@@ -9,3 +9,5 @@ env/
 ENV/
 .venv/
 .env/
+# Data
+.csv
